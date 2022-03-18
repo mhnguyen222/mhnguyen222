@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhnguyen222
+- 👋 Hi, I’m @mhnguyen222 but you can call me, My. 
 - 👀 I’m interested in data analytics - progressive analytics. 
 - 🌱 I’m currently learning R and GIS
 - 💞️ I’m still exploring on my journey on data :) 
